@@ -6,24 +6,25 @@
 
 [Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) (This combo has really worked great for me so far)
 
-Special mention to (only for windows, not available on macos):
+Special mention to (but works only on windows):
 
 [MobaXterm](http://mobaxterm.mobatek.net/) The best enhanced terminal with tabbed ssh/sftp client, you can uninstall putty or winscp 
 
 ### Mac Finder improvement
 
-[XtraFinder](https://www.trankynam.com/xtrafinder/) (A must have app! Really improves the usage of the finder)
+[XtraFinder](https://www.trankynam.com/xtrafinder/) A must have app! Really improves the finder!
 
 ### Package manager
 
-[Homebrew](http://brew.sh/) (similar to linux apt-get but for mac)
+[Homebrew](http://brew.sh/) similar to linux apt-get but for mac
 
 ### TextEditor 
 
 [Atom](https://atom.io/) (really great, totally free, but not optimized for large/medium files like > 10Mo), 
 [SublimeText](https://www.sublimetext.com/) (great too but not free plugin, nice for large file)
 [Textwrangler](http://www.barebones.com/products/TextWrangler/) (nice for cluster ssh connection) 
-                  
+[Vundle](https://github.com/VundleVim/Vundle.vim) Nice plugins for VIM !
+
 ### Programming stuff
 
 [Rstudio](https://www.rstudio.com/) By far the best IDE for R!
