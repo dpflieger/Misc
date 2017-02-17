@@ -2,7 +2,7 @@
 
 ### Terminal		
 
-[Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) (This combo has really worked great for me so far)
+[Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) This combo has really worked great for me so far
 
 Special mention to (but works only on windows):
 
@@ -18,11 +18,11 @@ Special mention to (but works only on windows):
 
 ### TextEditor 
 
-[Atom](https://atom.io/) (really great, totally free, but not optimized for large/medium files like > 10Mo)
+[Atom](https://atom.io/)  really great, totally free, but not optimized for large/medium files (like > 10Mo) 
 
-[SublimeText](https://www.sublimetext.com/) (great too but not free plugin, nice for large file)
+[SublimeText](https://www.sublimetext.com/)  great too but not free plugin, nice for large file 
 
-[Textwrangler](http://www.barebones.com/products/TextWrangler/) (nice for cluster ssh connection) 
+[Textwrangler](http://www.barebones.com/products/TextWrangler/)  nice for cluster ssh connection 
 
 [Vundle](https://github.com/VundleVim/Vundle.vim) Nice plugins for VIM !
 
@@ -30,26 +30,30 @@ Special mention to (but works only on windows):
 
 [Rstudio](https://www.rstudio.com/) By far the best IDE for R!
 
-[pyCharm](https://www.jetbrains.com/pycharm/) (A great IDE, nice for test)
+[pyCharm](https://www.jetbrains.com/pycharm/)  A great IDE, nice for test 
 
-[Spyder](https://github.com/spyder-ide/spyder) (Installed with anaconda)
-[Rodeo](https://www.yhat.com/products/rodeo) (an Rstudio based IDE for python!)
+[Spyder](https://github.com/spyder-ide/spyder)  Installed with anaconda 
+
+[Rodeo](https://www.yhat.com/products/rodeo)  an Rstudio based IDE for python! 
               
 [Anaconda](https://www.continuum.io/downloads) (Easiest way to install Python and managed difference environment, should be installed through anaconda every time! Can be easily installed on a cluster without root permission)
 
-[Jupyter](http://jupyter.org/) notebook (works great with R, python, Julia, Ruby, is installed with anaconda)
+[Jupyter](http://jupyter.org/) Great notebook (works with R, python, Julia, and is installed with anaconda)
 
 [StackEdit](https://stackedit.io/editor) Really powerfull markdown editor
 
 ### ScreenCapture 	
 
-[Skitch](https://itunes.apple.com/us/app/skitch/id425955336?mt=12) (linked with your evernote app)
+[Skitch](https://itunes.apple.com/us/app/skitch/id425955336?mt=12) linked with your evernote app 
 
 ### Imaging		
 
 [Illustrator](http://www.adobe.com/products/illustrator.html)
+
 [Inkscape](https://inkscape.org/en/)
+
 [Gimp](https://www.gimp.org/)
+
 [ImageJ](https://imagej.net/Welcome) + [FigureJ](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start) plugin
 
 ### Reference & citation manager 		
