@@ -1,7 +1,5 @@
 # My every day macOS (ultimate) toolbox for bioinformatics
 
-![]()
-
 ### Terminal		
 
 [Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) (This combo has really worked great for me so far)
