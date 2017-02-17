@@ -36,7 +36,7 @@ Special mention to (but works only on windows):
 
 [Rodeo](https://www.yhat.com/products/rodeo)  an Rstudio based IDE for python! 
               
-[Anaconda](https://www.continuum.io/downloads) (Easiest way to install Python and managed difference environment, should be installed through anaconda every time! Can be easily installed on a cluster without root permission)
+[Anaconda](https://www.continuum.io/downloads) Easiest way to install Python and managed difference environment, should be installed through anaconda every time! Can be easily installed on a cluster without root permission 
 
 [Jupyter](http://jupyter.org/) Great notebook (works with R, python, Julia, and is installed with anaconda)
 
@@ -66,11 +66,11 @@ Special mention to (but works only on windows):
 
 [Git](https://git-scm.com/)
 
-[Github](https://github.com/)
+[Github](https://github.com/) Great but private repo are costly
 
-[GitLab](https://about.gitlab.com/) (private repo available, nice for labs! Can be installed locally)
+[GitLab](https://about.gitlab.com/)  Private repo available, nice for labs! Can be installed locally
 
-[Bitbucket](https://bitbucket.org) (Private repo are free!)
+[Bitbucket](https://bitbucket.org) Private repo are free
 
 [SourceTree](https://www.sourcetreeapp.com/) (the classic, but not available for linux tho)
 
@@ -78,6 +78,6 @@ Special mention to (but works only on windows):
 
 ### Misc 			
 
-[f.lux](https://justgetflux.com/) (The must have app if you’re on a pc every day! Your eyes will thanks you!)
+[f.lux](https://justgetflux.com/) The must have app if you’re on a pc every day and especially if you're working late! I never had eye pain again!
 
 [Google Drive](https://www.google.com/drive/)
