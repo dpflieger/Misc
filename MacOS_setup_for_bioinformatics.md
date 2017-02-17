@@ -30,7 +30,9 @@ Special mention to (but works only on windows):
 
 [Rstudio](https://www.rstudio.com/) By far the best IDE for R!
 
-[pyCharm](https://www.jetbrains.com/pycharm/)  A great IDE, nice for test 
+[pyCharm](https://www.jetbrains.com/pycharm/)  A great IDE for python!
+
+[VisualStudio](https://www.visualstudio.com/vs/) Great for large scale app development, support hundreds of languages!
 
 [Spyder](https://github.com/spyder-ide/spyder)  Installed with anaconda 
 
