@@ -18,9 +18,12 @@ Special mention to (but works only on windows):
 
 ### TextEditor 
 
-[Atom](https://atom.io/) (really great, totally free, but not optimized for large/medium files like > 10Mo), 
+[Atom](https://atom.io/) (really great, totally free, but not optimized for large/medium files like > 10Mo)
+
 [SublimeText](https://www.sublimetext.com/) (great too but not free plugin, nice for large file)
+
 [Textwrangler](http://www.barebones.com/products/TextWrangler/) (nice for cluster ssh connection) 
+
 [Vundle](https://github.com/VundleVim/Vundle.vim) Nice plugins for VIM !
 
 ### Programming stuff
