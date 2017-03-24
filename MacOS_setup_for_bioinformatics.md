@@ -1,10 +1,10 @@
-# My every day macOS (ultimate) toolbox for bioinformatics
+# My every day macOS (almost free) toolbox for bioinformatics
 
 ### Terminal		
 
 [Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) This combo has really worked great for me so far
 
-Special mention to (but works only on windows):
+Works only on windows, but special mention to:
 
 [MobaXterm](http://mobaxterm.mobatek.net/) The best enhanced terminal with tabbed ssh/sftp client, you can uninstall putty or winscp 
 
@@ -65,8 +65,6 @@ Special mention to (but works only on windows):
 [ReadCube](https://www.readcube.com/)
 
 ### Versioning & repository management & GUI
-
-[Git](https://git-scm.com/)
 
 [Github](https://github.com/) Great but private repo are costly
 
