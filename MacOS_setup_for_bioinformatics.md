@@ -1,12 +1,11 @@
-# My every day macOS (almost free) toolbox for bioinformatics
+# MacOS (almost free) toolbox for bioinformatics
 
 ### Terminal		
 
-[Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) This combo has really worked great for me so far
+[Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) Really great combo. 
 
-Works only on windows, but special mention to:
-
-[MobaXterm](http://mobaxterm.mobatek.net/) The best enhanced terminal with tabbed ssh/sftp client, you can uninstall putty or winscp 
+The following tool works only on windows, but special mention to:
+[MobaXterm](http://mobaxterm.mobatek.net/) The best enhanced terminal with tabbed ssh/sftp client
 
 ### Mac Finder improvement
 
@@ -16,15 +15,15 @@ Works only on windows, but special mention to:
 
 [Homebrew](http://brew.sh/) similar to linux apt-get but for mac
 
-### TextEditor 
+### TextEditors 
 
-[Atom](https://atom.io/)  really great, totally free, but not optimized for large/medium files (like > 10Mo) 
+[vscode](https://code.visualstudio.com/) the new Microsoft open source text editor
 
-[SublimeText](https://www.sublimetext.com/)  great too but not free plugin, nice for large file 
+[Atom](https://atom.io/) great and flexible but really not optimized for large/medium files... (like >5Mo) 
 
-[Textwrangler](http://www.barebones.com/products/TextWrangler/)  nice for cluster ssh connection 
+[SublimeText](https://www.sublimetext.com/)
 
-[Vundle](https://github.com/VundleVim/Vundle.vim) Nice plugins for VIM !
+[Vundle](https://github.com/VundleVim/Vundle.vim) has very nice plugins to improve VIM!
 
 ### Programming stuff
 
@@ -78,6 +77,6 @@ Works only on windows, but special mention to:
 
 ### Misc 			
 
-[f.lux](https://justgetflux.com/) The must have app if you’re on a pc every day and especially if you're working late! I never had eye pain again!
+[f.lux](https://justgetflux.com/) The must have app if you’re on a pc every day and especially if you're working late! I'll  never had eye pain again!
 
 [Google Drive](https://www.google.com/drive/)
