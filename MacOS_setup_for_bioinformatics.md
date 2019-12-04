@@ -3,6 +3,7 @@
 ### Terminal		
 
 [Iterm2](https://www.iterm2.com/features.html) + [ohmyzsh](http://ohmyz.sh/) Really great combo. 
+and with --> https://iterm2colorschemes.com/
 
 The following tool works only on windows, but special mention to:
 [MobaXterm](http://mobaxterm.mobatek.net/) The best enhanced terminal with tabbed ssh/sftp client
